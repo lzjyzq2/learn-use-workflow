@@ -1,0 +1,32 @@
+{
+  "name": "learn-use-workflow",
+  "private": true,
+  "version": "0.0.0-development",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.1.0",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@tauri-apps/cli": "^1.1.0",
+    "@types/node": "^18.7.10",
+    "@vitejs/plugin-vue": "^3.0.1",
+    "semantic-release": "^19.0.5",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.2",
+    "vue-tsc": "^0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzjyzq2/learn-use-workflow.git"
+  }
+}
