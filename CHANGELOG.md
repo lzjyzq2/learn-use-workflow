@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.3.0...v1.3.1) (2022-11-02)
+
+
+### Bug Fixes
+
+* remove console ([a2df84f](https://github.com/lzjyzq2/learn-use-workflow/commit/a2df84f355ffd97b0950322e5ddd85e0a0a0a8b3))
+
 # [1.3.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.2.1...v1.3.0) (2022-11-02)
 
 
