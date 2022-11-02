@@ -7,3 +7,4 @@ createApp(App).mount("#app");
 
 console.log('Hellow world!')
 console.log('This is new Console!')
+console.log('++++++++!')
