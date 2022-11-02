@@ -5,4 +5,5 @@ import App from "./App.vue";
 createApp(App).mount("#app");
 
 
-console.log('Hellow world++!')
+console.log('Hellow world!')
+console.log('This is new Console!')
