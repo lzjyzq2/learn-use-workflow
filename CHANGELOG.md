@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.2.1...v1.3.0) (2022-11-02)
+
+
+### Features
+
+* add new console ([cd3ea7a](https://github.com/lzjyzq2/learn-use-workflow/commit/cd3ea7abc2b6e3ccd80dc4b57d2414e7df7581c5))
+
 ## [1.2.1](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.2.0...v1.2.1) (2022-11-02)
 
 
