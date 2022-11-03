@@ -10,6 +10,20 @@
 ### Features
 
 * new ci ([57695c6](https://github.com/lzjyzq2/learn-use-workflow/commit/57695c667136845ddb3bc524ca3d8e09e9c9f3df))
+* new config ([bfbd7e4](https://github.com/lzjyzq2/learn-use-workflow/commit/bfbd7e4a2672b71f25f8f4cb4c5b2d52d88809f5))
+
+# [1.5.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.4.1...v1.5.0) (2022-11-03)
+
+
+### Bug Fixes
+
+* fix ci ([2f817e8](https://github.com/lzjyzq2/learn-use-workflow/commit/2f817e85dea5b2ab8e91c510e3e341275d50bb7e))
+* modify identifier ([8da590e](https://github.com/lzjyzq2/learn-use-workflow/commit/8da590e22842b4c4c78fb7268ba69bb5a87634ce))
+
+
+### Features
+
+* new ci ([57695c6](https://github.com/lzjyzq2/learn-use-workflow/commit/57695c667136845ddb3bc524ca3d8e09e9c9f3df))
 
 # [1.5.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.4.1...v1.5.0) (2022-11-03)
 
