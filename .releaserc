@@ -26,7 +26,7 @@
             {
                 "assets": [
                     {
-                        "path": "src-tauri/target/release/learn-use-workflow.*"
+                        "path": "src-tauri/target/release/learn-use-workflow.exe"
                     },
                     {
                         "path": "src-tauri/target/release/bundle/**"
