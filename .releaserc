@@ -26,12 +26,10 @@
             {
                 "assets": [
                     {
-                        "path": "src-tauri/target/release/learn-use-workflow.*",
-                        "label": "安装包"
+                        "path": "src-tauri/target/release/learn-use-workflow.*"
                     },
                     {
-                        "path": "src-tauri/target/release/bundle/**",
-                        "label": "bundle"
+                        "path": "src-tauri/target/release/bundle/**"
                     }
                 ]
             }
