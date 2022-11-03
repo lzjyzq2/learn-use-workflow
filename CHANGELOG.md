@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.5.1...v1.5.2) (2022-11-03)
+
+
+### Bug Fixes
+
+* modify ci ([b331f22](https://github.com/lzjyzq2/learn-use-workflow/commit/b331f2216fd43d224d14fe247db5e985f209384d))
+
 ## [1.5.1](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.5.0...v1.5.1) (2022-11-03)
 
 
