@@ -26,7 +26,7 @@
             {
                 "assets": [
                     {
-                        "path": "src-tauri/target/release/**",
+                        "path": "src-tauri/target/release/learn-use-workflow.*",
                         "label": "安装包"
                     },
                     {
