@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.5.2...v1.6.0) (2022-11-03)
+
+
+### Features
+
+* add version display ([b822ac3](https://github.com/lzjyzq2/learn-use-workflow/commit/b822ac345e8eb5013f58211fe8681a21aaf62bc3))
+
 ## [1.5.2](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.5.1...v1.5.2) (2022-11-03)
 
 
