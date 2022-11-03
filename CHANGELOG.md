@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.4.1...v1.5.0) (2022-11-03)
+
+
+### Features
+
+* new ci ([57695c6](https://github.com/lzjyzq2/learn-use-workflow/commit/57695c667136845ddb3bc524ca3d8e09e9c9f3df))
+
 ## [1.4.1](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.4.0...v1.4.1) (2022-11-02)
 
 
