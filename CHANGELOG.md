@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.6.0...v1.7.0) (2022-11-04)
+
+
+### Features
+
+* new config ([bcb9fb3](https://github.com/lzjyzq2/learn-use-workflow/commit/bcb9fb3d38e1e17c42c61862905e67f22028863f))
+
 # [1.6.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.5.2...v1.6.0) (2022-11-03)
 
 
