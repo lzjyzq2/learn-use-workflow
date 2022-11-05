@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.7.0...v1.8.0) (2022-11-05)
+
+
+### Features
+
+* new ci config ([04ff820](https://github.com/lzjyzq2/learn-use-workflow/commit/04ff82079e8481735f4c5a17bea731407adca695))
+
 # [1.7.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.6.0...v1.7.0) (2022-11-04)
 
 
