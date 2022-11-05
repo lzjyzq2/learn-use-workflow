@@ -5,6 +5,20 @@
 
 * ci ([31a64d6](https://github.com/lzjyzq2/learn-use-workflow/commit/31a64d684a7303cee7553f1e44840bcc43a48e3e))
 * ci ([b679906](https://github.com/lzjyzq2/learn-use-workflow/commit/b6799069c0965c21202e09e7ee21fda00c645e0f))
+* fix script ([86cf96b](https://github.com/lzjyzq2/learn-use-workflow/commit/86cf96b317c94d02d13df4c04629771b061c0fb7))
+
+
+### Features
+
+* new ci config ([04ff820](https://github.com/lzjyzq2/learn-use-workflow/commit/04ff82079e8481735f4c5a17bea731407adca695))
+
+# [1.8.0](https://github.com/lzjyzq2/learn-use-workflow/compare/v1.7.0...v1.8.0) (2022-11-05)
+
+
+### Bug Fixes
+
+* ci ([31a64d6](https://github.com/lzjyzq2/learn-use-workflow/commit/31a64d684a7303cee7553f1e44840bcc43a48e3e))
+* ci ([b679906](https://github.com/lzjyzq2/learn-use-workflow/commit/b6799069c0965c21202e09e7ee21fda00c645e0f))
 
 
 ### Features
