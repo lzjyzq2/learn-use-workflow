@@ -7,7 +7,7 @@ const versionTag = "v" + version;
 
 const update = {
     version: versionTag,
-    notes,
+    notes:'有新版本需要更新啦！',
     "pub_date": new Date(),
     "platforms": {
         "windows-x86_64": {
