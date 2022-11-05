@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "learn-use-workflow",
-    "version": "0.0.0"
+    "version": "../package.json"
   },
   "tauri": {
     "allowlist": {
@@ -51,7 +51,10 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": true,
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDk5MDEwRDNFQUYxOTIzMkIKUldRckl4bXZQZzBCbWNXMHZjRmZyQXBpYkJSWmN0QWdLZm1mbnUyemJxVkoxYjg0M2VRTGFpUDYK",
+      "dialog": true,
+      "endpoints": ["https://lzjyzq2.github.io/learn-use-workflow/updater.json"]
     },
     "windows": [
       {
