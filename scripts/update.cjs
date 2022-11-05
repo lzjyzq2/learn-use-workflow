@@ -19,7 +19,9 @@ const update = {
 
 const readSig = () => {
     const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle', 'learn-use-workflow.x64.msi.zip.sig')
-    return fs.readFileSync(path, 'utf-8')
+    console.log('readSig', path)
+    const sig = fs.readFileSync(path, 'utf-8')
+    return sig
 }
 
 const createUpdater = () => {
@@ -28,6 +30,7 @@ const createUpdater = () => {
         fs.mkdirSync(path);
     }
     const jsonPath = resolve(path, 'updater.json')
+    console.log('update', jsonPath)
     fs.writeFileSync(
         jsonPath,
         JSON.stringify(update, null, 2)
