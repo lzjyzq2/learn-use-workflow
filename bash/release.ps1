@@ -17,10 +17,13 @@ param ($version = $(throw "version is required."), $notes = $(throw "notes is re
 
 # set env
 $env:version = $version
-$env:notes=$notes
+$env:notes = $notes
+
+$env:version | Write-Output
+$env:notes | Write-Output
 
 # Build Tauri
-npx tauri build
+# npx tauri build
 
 # generate updater.json
-npm run updater
+# npm run updater
