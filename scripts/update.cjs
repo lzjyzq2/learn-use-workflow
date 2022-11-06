@@ -6,7 +6,8 @@ const nowDir = __dirname
 
 
 
-const args = process.args
+const args = process.argv
+console.log(args)
 const version = args[2]
 const notes = args[3]
 
