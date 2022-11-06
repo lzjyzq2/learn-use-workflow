@@ -5,24 +5,27 @@ const notes = process.env.notes;
 const version = process.env.version
 const versionTag = "v" + version;
 
-const update = {
-    version: versionTag,
-    notes:'有新版本需要更新啦！',
-    "pub_date": new Date(),
-    "platforms": {
-        "windows-x86_64": {
-            "signature": readSig(),
-            "url": `https://github.com/lzjyzq2/learn-use-workflow/releases/download/${versionTag}/OhMyBox_${version}_x64_en-US.msi.zip`
-        }
-    }
-}
 
 const readSig = () => {
-    const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle', 'learn-use-workflow.x64.msi.zip.sig')
+    const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle', `learn-use-workflow_${version}_x64_en-US.msi.zip.sig`)
     console.log('readSig', path)
     const sig = fs.readFileSync(path, 'utf-8')
     return sig
 }
+
+const update = {
+    version: versionTag,
+    notes,
+    "pub_date": new Date(),
+    "platforms": {
+        "windows-x86_64": {
+            "signature": readSig(),
+            "url": `https://github.com/lzjyzq2/learn-use-workflow/releases/download/${versionTag}/learn-use-workflow_${version}_x64_en-US.msi.zip`
+        }
+    }
+}
+
+
 
 const createUpdater = () => {
     const path = resolve(nowDir, '..', '.updater')
