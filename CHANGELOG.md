@@ -1,3 +1,10 @@
+## [1.8.8](https://github.com/[secure]/learn-use-workflow/compare/v1.8.7...v1.8.8) (2022-11-06)
+
+
+### Bug Fixes
+
+* fix pages config ([4382cfa](https://github.com/[secure]/learn-use-workflow/commit/4382cfa53932998c26345caf77f802f0f8bc65be))
+
 ## [1.8.7](https://github.com/[secure]/learn-use-workflow/compare/v1.8.6...v1.8.7) (2022-11-06)
 
 
