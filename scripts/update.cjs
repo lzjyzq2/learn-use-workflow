@@ -14,7 +14,7 @@ const notes = args[3]
 const versionTag = "v" + version;
 
 const readSig = () => {
-    const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle', `learn-use-workflow_${version}_x64_en-US.msi.zip.sig`)
+    const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle','msi', `learn-use-workflow_${version}_x64_en-US.msi.zip.sig`)
     console.log('readSig', path)
     const sig = fs.readFileSync(path, 'utf-8')
     return sig
