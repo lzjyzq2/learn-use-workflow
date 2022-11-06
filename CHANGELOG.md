@@ -1,3 +1,10 @@
+## [1.8.7](https://github.com/[secure]/learn-use-workflow/compare/v1.8.6...v1.8.7) (2022-11-06)
+
+
+### Bug Fixes
+
+* new update.cjs ([c38c702](https://github.com/[secure]/learn-use-workflow/commit/c38c7028085a0ab15958ed30cbb76dfa9c1b58b0))
+
 ## [1.8.6](https://github.com/[secure]/learn-use-workflow/compare/v1.8.5...v1.8.6) (2022-11-06)
 
 
