@@ -3,6 +3,16 @@
 
 ### Bug Fixes
 
+* fix config ([61d1774](https://github.com/[secure]/learn-use-workflow/commit/61d177431e1df153b5196633f332991d08b92a5d))
+* fix config ([8feaa98](https://github.com/[secure]/learn-use-workflow/commit/8feaa98d40145a10b5979e701e59b15082ab091e))
+* fix shell ([b273a56](https://github.com/[secure]/learn-use-workflow/commit/b273a56d82233708a7123730e109e554b3672057))
+* fix shell ([b30564d](https://github.com/[secure]/learn-use-workflow/commit/b30564d033d25819d3306484a4e0952d43ee3e32))
+
+## [1.8.2](https://github.com/[secure]/learn-use-workflow/compare/v1.8.1...v1.8.2) (2022-11-06)
+
+
+### Bug Fixes
+
 * fix config ([8feaa98](https://github.com/[secure]/learn-use-workflow/commit/8feaa98d40145a10b5979e701e59b15082ab091e))
 * fix shell ([b273a56](https://github.com/[secure]/learn-use-workflow/commit/b273a56d82233708a7123730e109e554b3672057))
 * fix shell ([b30564d](https://github.com/[secure]/learn-use-workflow/commit/b30564d033d25819d3306484a4e0952d43ee3e32))
