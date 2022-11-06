@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/[secure]/learn-use-workflow/compare/v1.8.0...v1.8.1) (2022-11-06)
+
+
+### Bug Fixes
+
+* new bash ([14982cf](https://github.com/[secure]/learn-use-workflow/commit/14982cf96b98af79a50e17046b6fa99d0eb1a24f))
+
 # [1.8.0](https://github.com/[secure]/learn-use-workflow/compare/v1.7.0...v1.8.0) (2022-11-06)
 
 
