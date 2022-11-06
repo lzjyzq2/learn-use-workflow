@@ -18,7 +18,7 @@
         [
             "@semantic-release/exec",
             {
-                "prepareCmd": ".\\bash\\release.ps1 -version '${nextRelease.version}' -notes '新版本发布啦'"
+                "prepareCmd": ".\\bash\\release.sh '${nextRelease.version}' '新版本发布啦'"
             }
         ],
         [
