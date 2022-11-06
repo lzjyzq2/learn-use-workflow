@@ -19,7 +19,7 @@
             "@semantic-release/exec",
             {
                 "prepareCmd": "npx tauri build",
-                "successCmd": "npm run updater '${nextRelease.version}' '新版本发布啦'"
+                "successCmd": "npm run updater ${nextRelease.version} 新版本发布啦"
             }
         ],
         [
