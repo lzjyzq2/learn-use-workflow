@@ -1,10 +1,16 @@
 const fs = require('fs');
 const { resolve } = require('path');
 const nowDir = __dirname
-const notes = process.env.notes;
-const version = process.env.version
-const versionTag = "v" + version;
+// const notes = process.env.notes;
+// const version = process.env.version
 
+
+
+const args = process.args
+const version = args[2]
+const notes = args[3]
+
+const versionTag = "v" + version;
 
 const readSig = () => {
     const path = resolve(nowDir, '..', 'src-tauri', 'target', 'release', 'bundle', `learn-use-workflow_${version}_x64_en-US.msi.zip.sig`)
