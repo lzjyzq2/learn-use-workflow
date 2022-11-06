@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/[secure]/learn-use-workflow/compare/v1.8.1...v1.8.2) (2022-11-06)
+
+
+### Bug Fixes
+
+* fix shell ([b30564d](https://github.com/[secure]/learn-use-workflow/commit/b30564d033d25819d3306484a4e0952d43ee3e32))
+
 ## [1.8.1](https://github.com/[secure]/learn-use-workflow/compare/v1.8.0...v1.8.1) (2022-11-06)
 
 
