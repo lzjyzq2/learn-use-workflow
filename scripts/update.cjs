@@ -40,7 +40,7 @@ const createUpdater = () => {
         fs.mkdirSync(path);
     }
     const jsonPath = resolve(path, 'updater.json')
-    console.log('update', jsonPath)
+    console.log('update：', jsonPath)
     fs.writeFileSync(
         jsonPath,
         JSON.stringify(update, null, 2)
