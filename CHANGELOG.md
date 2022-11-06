@@ -1,3 +1,10 @@
+## [1.8.6](https://github.com/[secure]/learn-use-workflow/compare/v1.8.5...v1.8.6) (2022-11-06)
+
+
+### Bug Fixes
+
+* fix update.cjs sig path ([41e01df](https://github.com/[secure]/learn-use-workflow/commit/41e01df576f9add422ab1797d65bab8a7dad4c4b))
+
 ## [1.8.5](https://github.com/[secure]/learn-use-workflow/compare/v1.8.4...v1.8.5) (2022-11-06)
 
 
