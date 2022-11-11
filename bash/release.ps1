@@ -1,2 +1,2 @@
 Write-Output 'Test'
-exit 1
+exit 0
