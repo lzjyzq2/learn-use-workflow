@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/[secure]/learn-use-workflow/compare/v1.8.9...v1.9.0) (2022-11-11)
+
+
+### Bug Fixes
+
+* fix release.ps1 ([351f8c0](https://github.com/[secure]/learn-use-workflow/commit/351f8c0f916d99030d2b91b74e2b96c7f83bef83))
+
+
+### Features
+
+* fix config ([1dd0d2a](https://github.com/[secure]/learn-use-workflow/commit/1dd0d2a6e7e29cd209a1cfa1b8854efaba572221))
+
 ## [1.8.10](https://github.com/[secure]/learn-use-workflow/compare/v1.8.9...v1.8.10) (2022-11-11)
 
 
