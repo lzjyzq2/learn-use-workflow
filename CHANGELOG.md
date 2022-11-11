@@ -1,3 +1,10 @@
+## [1.8.9](https://github.com/[secure]/learn-use-workflow/compare/v1.8.8...v1.8.9) (2022-11-11)
+
+
+### Bug Fixes
+
+* releaserc ([f89cf7f](https://github.com/[secure]/learn-use-workflow/commit/f89cf7fd9fd04929bd066b13f58cd9c5c8089cc1))
+
 ## [1.8.8](https://github.com/[secure]/learn-use-workflow/compare/v1.8.7...v1.8.8) (2022-11-06)
 
 
