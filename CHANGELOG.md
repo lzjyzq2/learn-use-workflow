@@ -1,3 +1,10 @@
+## [1.9.4](https://github.com/[secure]/learn-use-workflow/compare/v1.9.3...v1.9.4) (2022-11-12)
+
+
+### Bug Fixes
+
+* main.ts ([0c86cf8](https://github.com/[secure]/learn-use-workflow/commit/0c86cf80f8320a19fa703b96d58ae49c9ad1a8fd))
+
 ## [1.9.3](https://github.com/[secure]/learn-use-workflow/compare/v1.9.2...v1.9.3) (2022-11-12)
 
 

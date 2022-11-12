@@ -1,7 +1,7 @@
 {
   "name": "learn-use-workflow",
   "private": true,
-  "version": "1.9.3",
+  "version": "1.9.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
