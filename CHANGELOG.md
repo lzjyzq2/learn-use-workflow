@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/[secure]/learn-use-workflow/compare/v1.9.1...v1.9.2) (2022-11-12)
+
+
+### Bug Fixes
+
+* add console ([ff6bcaf](https://github.com/[secure]/learn-use-workflow/commit/ff6bcafda6d3778cbde57a4c766b559aff642526))
+
 ## [1.9.1](https://github.com/[secure]/learn-use-workflow/compare/v1.9.0...v1.9.1) (2022-11-11)
 
 
