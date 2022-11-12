@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/[secure]/learn-use-workflow/compare/v1.9.2...v1.9.3) (2022-11-12)
+
+
+### Bug Fixes
+
+* fix ci config ([9b78fb7](https://github.com/[secure]/learn-use-workflow/commit/9b78fb775a8cbf890d2ab91b87b85a3547f1248e))
+
 ## [1.9.2](https://github.com/[secure]/learn-use-workflow/compare/v1.9.1...v1.9.2) (2022-11-12)
 
 
