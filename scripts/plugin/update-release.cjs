@@ -3,14 +3,14 @@ const fs = require('fs');
 const { resolve } = require('path');
 const nowDir = __dirname
 
-const readSig = (version) => {
-  const path = resolve(nowDir, '..', '..', 'src-tauri', 'target', 'release', 'bundle', 'msi', `learn-use-workflow_${version}_x64_en-US.msi.zip.sig`)
+const readSig = (productName, version) => {
+  const path = resolve(nowDir, '..', '..', 'src-tauri', 'target', 'release', 'bundle', 'msi', `${productName}_${version}_x64_en-US.msi.zip.sig`)
   console.log('readSig', path)
   const sig = fs.readFileSync(path, 'utf-8')
   return sig
 }
 
-const createUpdater = (version, notes) => {
+const createUpdater = ({ productName, repoName, userName, version, notes }) => {
   const versionTag = "v" + version
   const update = {
     version: versionTag,
@@ -19,7 +19,7 @@ const createUpdater = (version, notes) => {
     "platforms": {
       "windows-x86_64": {
         "signature": readSig(version),
-        "url": `https://github.com/lzjyzq2/learn-use-workflow/releases/download/${versionTag}/learn-use-workflow_${version}_x64_en-US.msi.zip`
+        "url": `https://github.com/${userName}/${repoName}/releases/download/${versionTag}/${productName}_${version}_x64_en-US.msi.zip`
       }
     }
   }
@@ -36,16 +36,22 @@ const createUpdater = (version, notes) => {
   );
 }
 
-
-
-
 /**
  * Called by semantic-release during the success step
  * @param {*} pluginConfig The semantic-release plugin config
  * @param {*} context The context provided by semantic-release
  */
-async function success(_pluginConfig, { nextRelease }) {
-  createUpdater(nextRelease.version, nextRelease.notes)
+async function success({ productName, repoName, userName }, { nextRelease }) {
+  if (!productName) {
+    throw new Error('Please configure the productName!')
+  }
+  createUpdater({
+    productName,
+    repoName,
+    userName,
+    version: nextRelease.version,
+    notes: nextRelease.notes
+  })
 }
 
 module.exports = { success };

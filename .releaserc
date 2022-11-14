@@ -35,6 +35,13 @@
                 ]
             }
         ],
-        "./scripts/plugin/update-release.cjs"
+        [
+            "./scripts/plugin/update-release.cjs",
+            {
+                "productName": "learn-use-workflow",
+                "repoName": "learn-use-workflow",
+                "userName": "lzjyzq2"
+            }
+        ]
     ]
 }
