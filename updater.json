@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.6",
-  "notes": "## [1.9.6](https://github.com/[secure]/learn-use-workflow/compare/v1.9.5...v1.9.6) (2022-11-13)\n\n\n### Bug Fixes\n\n* fix ci config ([0364da3](https://github.com/[secure]/learn-use-workflow/commit/0364da3b097b46661d936d8c6421ed715da8df47))\n* new ci config ([28b3a8a](https://github.com/[secure]/learn-use-workflow/commit/28b3a8a4138f51732821a5a7deeb1a8411e91a18))\n* new update js ([0bd38a1](https://github.com/[secure]/learn-use-workflow/commit/0bd38a1cc0b7232769dfa4a181c27e793f8658aa))\n\n\n\n",
-  "pub_date": "2022-11-13T16:00:43.453Z",
+  "version": "v1.9.8",
+  "notes": "## [1.9.8](https://github.com/[secure]/learn-use-workflow/compare/v1.9.7...v1.9.8) (2022-11-14)\n\n\n### Bug Fixes\n\n* fix update-relaease.cjs ([da00e9a](https://github.com/[secure]/learn-use-workflow/commit/da00e9a139c1375136d5c7c7bdb45f28bcb7153f))\n\n\n\n",
+  "pub_date": "2022-11-14T07:05:57.009Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRckl4bXZQZzBCbVhvZzBFZXA0NlFlNEdVL0pGSWg1Qng0aFYxMzhwSDBqZERhejgvOHhmNGZPOEJ5ZmZqNWNTV0RSZllyZnlLSFdaQkdDQm9iaVdVN1BQNlE3cm11UWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY4MzU1MjE5CWZpbGU6bGVhcm4tdXNlLXdvcmtmbG93XzEuOS42X3g2NF9lbi1VUy5tc2kuemlwCjBOeDV1dWo2VjQzZzcxQXNydm1MMGsrT1RwSnh0UEd6TFJrWk55Z1psanNkU0QrNWR0a0hmMXhxRUU1czhudUw4WlRscFNmQWgwRkg2WmZnZ2E0Y0FRPT0K",
-      "url": "https://github.com/lzjyzq2/learn-use-workflow/releases/download/v1.9.6/learn-use-workflow_1.9.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRckl4bXZQZzBCbVpZeEtJMktnMEt2YXF4TVpPSUtseFNDT09JOWoyYitHaCtlZEpRc3k5QlBreDFDNnR1TFQ4WndWa3E5VW9qNFZzYjZ2TnFuS1BtMDJ3ei90UDk4Z3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY4NDA5NTM0CWZpbGU6bGVhcm4tdXNlLXdvcmtmbG93XzEuOS44X3g2NF9lbi1VUy5tc2kuemlwCnVQSS9ZZWZTMzB1TXpXRDZ3QU9hVkhtTGJ2MDJ0cUJySENPZzc4cWgvOHloMGFmKzFwWklTd0FNZktDR2xOVW5hdW8zNnJTOGFUTkNTZEc2dmR6cUNRPT0K",
+      "url": "https://github.com/lzjyzq2/learn-use-workflow/releases/download/v1.9.8/learn-use-workflow_1.9.8_x64_en-US.msi.zip"
     }
   }
 }
