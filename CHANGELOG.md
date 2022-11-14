@@ -1,3 +1,10 @@
+## [1.9.8](https://github.com/[secure]/learn-use-workflow/compare/v1.9.7...v1.9.8) (2022-11-14)
+
+
+### Bug Fixes
+
+* fix update-relaease.cjs ([da00e9a](https://github.com/[secure]/learn-use-workflow/commit/da00e9a139c1375136d5c7c7bdb45f28bcb7153f))
+
 ## [1.9.7](https://github.com/[secure]/learn-use-workflow/compare/v1.9.6...v1.9.7) (2022-11-14)
 
 
