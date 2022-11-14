@@ -1,3 +1,10 @@
+## [1.9.7](https://github.com/[secure]/learn-use-workflow/compare/v1.9.6...v1.9.7) (2022-11-14)
+
+
+### Bug Fixes
+
+* new update-release.cjs ([4bfe318](https://github.com/[secure]/learn-use-workflow/commit/4bfe31863d9324d7d07882dd3340c1770c23d391))
+
 ## [1.9.6](https://github.com/[secure]/learn-use-workflow/compare/v1.9.5...v1.9.6) (2022-11-13)
 
 
