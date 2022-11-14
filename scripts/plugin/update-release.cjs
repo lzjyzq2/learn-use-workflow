@@ -18,7 +18,7 @@ const createUpdater = ({ productName, repoName, userName, version, notes }) => {
     "pub_date": new Date(),
     "platforms": {
       "windows-x86_64": {
-        "signature": readSig(version),
+        "signature": readSig(productName, version),
         "url": `https://github.com/${userName}/${repoName}/releases/download/${versionTag}/${productName}_${version}_x64_en-US.msi.zip`
       }
     }
